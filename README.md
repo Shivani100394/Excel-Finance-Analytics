@@ -9,7 +9,7 @@
 
    **3.** Create a report on _[Gross Margin % by quarters](https://github.com/Shivani100394/Excel-Finance-Analytics/blob/main/4.GrossMargin%25%20by%20Quarters.pdf)_
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
